@@ -2,6 +2,8 @@
     download the package "11.24"\"11.24.2"\"11.24.3"
 # step 2
     using the vivado open the .xpr file
+    ![alt text](image.png)
+
 
 In the 11.24 folder is the first task: Rectangle Transform
 
